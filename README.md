@@ -1,2 +1,3 @@
 # Responsive-Portfolio
-Initial Portfolio Design with Media Queries
+
+I was unable to figure out a couple things here, mostly with the portfolio page. My alignment of the content inside the main-section was never quite right with my header, it always looks slightly off on the right. As well as there being the massive amounts of blank space on the bottom of the portfolio page that isn't supposed to be there. The bottom-padding works on the other two pages, but throws that one off, leading me to believe that there's a more robust solution that padding. I also had the same issue with padding as a crutch for the navbar up top when going to 640px and below; the padding-right simply messes up the navbar when you start dipping down into the 500px range. I wasn't able to figure out how I could align the navbar in relation to the static logo unfortunately.
